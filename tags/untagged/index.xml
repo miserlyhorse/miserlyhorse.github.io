@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<title>Untagged on The Miserly Horse</title>
+		<link>https://miserlyhorse.github.io/tags/untagged/</link>
+		<description>Recent content in Untagged on The Miserly Horse</description>
+		<generator>Hugo -- 0.164.0</generator>
+		<language>en</language>
+		<lastBuildDate>Thu, 23 Jul 2026 14:26:05 +1000</lastBuildDate>
+		<atom:link href="https://miserlyhorse.github.io/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+		
+		
+		<item>
+			<title>Bob was a horse</title>
+			<link>https://miserlyhorse.github.io/posts/bob-horse/</link>
+			<pubDate>Thu, 23 Jul 2026 14:26:05 +1000</pubDate><guid>https://miserlyhorse.github.io/posts/bob-horse/</guid>
+			<description><![CDATA[&lt;no value&gt;]]></description><content type="text/html" mode="escaped"><![CDATA[<p>This is a story about a horse. His name was Bob&hellip; and he was a bit of a cunt!</p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>
