@@ -2,16 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://miserlyhorse.github.io/posts/</loc>
-    <lastmod>2026-07-23T16:12:13+10:00</lastmod>
+    <loc>https://miserlyhorse.github.io/posts/not-gay/</loc>
+    <lastmod>2026-07-23T16:55:53+10:00</lastmod>
   </url><url>
-    <loc>https://miserlyhorse.github.io/posts/succulent-meal/</loc>
-    <lastmod>2026-07-23T16:12:13+10:00</lastmod>
+    <loc>https://miserlyhorse.github.io/posts/</loc>
+    <lastmod>2026-07-23T16:55:53+10:00</lastmod>
   </url><url>
     <loc>https://miserlyhorse.github.io/tags/</loc>
-    <lastmod>2026-07-23T16:12:13+10:00</lastmod>
+    <lastmod>2026-07-23T16:55:53+10:00</lastmod>
   </url><url>
     <loc>https://miserlyhorse.github.io/</loc>
+    <lastmod>2026-07-23T16:55:53+10:00</lastmod>
+  </url><url>
+    <loc>https://miserlyhorse.github.io/tags/untagged/</loc>
+    <lastmod>2026-07-23T16:55:53+10:00</lastmod>
+  </url><url>
+    <loc>https://miserlyhorse.github.io/posts/succulent-meal/</loc>
     <lastmod>2026-07-23T16:12:13+10:00</lastmod>
   </url><url>
     <loc>https://miserlyhorse.github.io/tags/truestory/</loc>
@@ -24,9 +30,6 @@
     <lastmod>2026-07-23T15:54:12+10:00</lastmod>
   </url><url>
     <loc>https://miserlyhorse.github.io/posts/bob-horse/</loc>
-    <lastmod>2026-07-23T14:26:05+10:00</lastmod>
-  </url><url>
-    <loc>https://miserlyhorse.github.io/tags/untagged/</loc>
     <lastmod>2026-07-23T14:26:05+10:00</lastmod>
   </url><url>
     <loc>https://miserlyhorse.github.io/categories/</loc>
