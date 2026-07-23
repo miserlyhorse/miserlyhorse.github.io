@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 	<channel>
-		<title>Posts on The Miserly Horse</title>
-		<link>https://miserlyhorse.github.io/posts/</link>
-		<description>Recent content in Posts on The Miserly Horse</description>
+		<title>Work on The Miserly Horse</title>
+		<link>https://miserlyhorse.github.io/tags/work/</link>
+		<description>Recent content in Work on The Miserly Horse</description>
 		<generator>Hugo -- 0.164.0</generator>
 		<language>en</language>
 		<lastBuildDate>Thu, 23 Jul 2026 15:54:12 +1000</lastBuildDate>
-		<atom:link href="https://miserlyhorse.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="https://miserlyhorse.github.io/tags/work/index.xml" rel="self" type="application/rss+xml" />
 		
 		
 		<item>
@@ -19,14 +19,6 @@
 <p>Well fuck you all, I was fucking right!</p>
 <p>John was flying to China every month for a couple of weeks at a time to get his dick wet with a local admin!</p>
 <p>John got fired. Good luck John with whatever you decide to do next.</p>
-]]></content>
-		</item>
-		
-		<item>
-			<title>Bob was a horse</title>
-			<link>https://miserlyhorse.github.io/posts/bob-horse/</link>
-			<pubDate>Thu, 23 Jul 2026 14:26:05 +1000</pubDate><guid>https://miserlyhorse.github.io/posts/bob-horse/</guid>
-			<description><![CDATA[&lt;no value&gt;]]></description><content type="text/html" mode="escaped"><![CDATA[<p>This is a story about a horse. His name was Bob&hellip; and he was a bit of a cunt!</p>
 ]]></content>
 		</item>
 		
